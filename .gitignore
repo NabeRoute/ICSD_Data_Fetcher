@@ -10,10 +10,13 @@ icsd_saved/
 src/
 analyze_data.py
 fetch_data_modular.py
+requirements.lock
 
 # venv
 .venv
 .env
 
+
 #log
-.log
+*.log
+*.lock
