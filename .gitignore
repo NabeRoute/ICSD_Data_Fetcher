@@ -1,0 +1,19 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+downloaded_ids.txt
+icsd_saved/
+src/
+analyze_data.py
+fetch_data_modular.py
+
+# venv
+.venv
+.env
+
+#log
+.log
